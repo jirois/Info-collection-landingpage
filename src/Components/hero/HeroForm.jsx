@@ -168,7 +168,7 @@ const HeroForm = () => {
       </FormControl>
 
       <BtnCon>
-        <button>Download Guide Here</button>
+        <button disabled={!formIsValid}>Download Guide Here</button>
       </BtnCon>
     </Form>
   );

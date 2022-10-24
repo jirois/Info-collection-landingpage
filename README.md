@@ -1,20 +1,26 @@
-# Getting Started with Create React App
+## Information Collection Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Request users to enter information before downloading a guide.
 
-## Available Scripts
+### Installation
 
-In the project directory, you can run:
+Clone this repo and install all dependencies.
 
-### `npm start`
+- `git clone https://github.com/jirois/Info-collection-landingpage.git`
+- `cd landing_one` then `yarn install or npm install` to install all dependencies for the client (React)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<hr>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<hr>
 
-### `npm test`
+### Technology/Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- React
+- Styled-components
+
+<hr>
+
+### Features
+
+- Collect information
+- Validate information before collection
